@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "npx expo start",
+    "dev": "npx expo start --web",
+    "start": "npx expo start",
     "build:web": "npx expo export --platform web",
     "lint": "npx expo lint"
   },
