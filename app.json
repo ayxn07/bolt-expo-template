@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bolt-diy-expo-nativewind",
-    "slug": "bolt-diy-expo-nativewind",
+    "name": "hackcortex-expo",
+    "slug": "hackcortex-expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
